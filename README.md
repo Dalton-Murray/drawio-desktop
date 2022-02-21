@@ -1,10 +1,3 @@
-About
------ 
-
-**drawio-desktop** is a diagramming and whiteboarding desktop app based on [Electron](https://electronjs.org/) that wraps the [core draw.io editor](https://github.com/jgraph/drawio).
-
-Download built binaries from the [releases section](https://github.com/jgraph/drawio-desktop/releases).
-
 Security
 --------
 
@@ -17,7 +10,7 @@ Developing
 
 **draw.io** is a git submodule of **drawio-desktop**. To get both you need to clone recursively:
 
-`git clone --recursive https://github.com/jgraph/drawio-desktop.git`
+`git clone --recursive https://github.com/Dalton-Murray/drawio-desktop.git`
 
 To run this:
 1. `npm install` (in the root directory of this repo)
